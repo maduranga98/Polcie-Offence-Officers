@@ -1,16 +1,28 @@
 # police_offence_officer
 
-Flutter project for a client
+Flutter project for a client.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This a project aimed at creation an application which allows police officers to immidietly sent fines to moterists. 
 
-A few resources to get you started if this is your first Flutter project:
+Resouces used in application:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Firebase as database
+- shimmer: ^2.0.0
+- fluttertoast: ^8.0.9
+- intl: ^0.17.0
+- mailer: ^5.2.0
+- flutter_phone_direct_caller: ^2.1.1
+- flutter_credit_card: ^3.0.3
+- google_maps_flutter: ^2.2.0
+- location: ^4.4.0
+- flutter_polyline_points: ^1.0.0
+- flutter_svg: ^1.1.5
+- http: ^0.13.5
+- fab_circular_menu: ^1.0.2
+- get: ^4.6.5
+- charts_flutter: ^0.12.0
+- syncfusion_flutter_charts: ^20.2.50
+- youtube_player_flutter: ^8.1.0
+ 
