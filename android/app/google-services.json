@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "719949987973",
+    "firebase_url": "https://emailpasswordauth-e62d9-default-rtdb.firebaseio.com",
+    "project_id": "emailpasswordauth-e62d9",
+    "storage_bucket": "emailpasswordauth-e62d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719949987973:android:ebfbf07334e32c129529ec",
+        "android_client_info": {
+          "package_name": "com.dananjaya.vehicle_service_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0rL5L_BwcNYa5AapYg7XmbILqswsofk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719949987973-00p1pd4e8o43lhvupmob26l352rt7cmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeOffenceDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719949987973:android:4ef7d00e716596a79529ec",
+        "android_client_info": {
+          "package_name": "com.example.police_offence_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719949987973-rsc08jttqfsko508rjvcfp3drkaq6m4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.police_offence_driver",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0rL5L_BwcNYa5AapYg7XmbILqswsofk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719949987973-00p1pd4e8o43lhvupmob26l352rt7cmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeOffenceDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719949987973:android:62f8ea29e97555709529ec",
+        "android_client_info": {
+          "package_name": "com.example.police_offence_officer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0rL5L_BwcNYa5AapYg7XmbILqswsofk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719949987973-00p1pd4e8o43lhvupmob26l352rt7cmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeOffenceDriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719949987973:android:ea944304422d634c9529ec",
+        "android_client_info": {
+          "package_name": "com.example.police_offence_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0rL5L_BwcNYa5AapYg7XmbILqswsofk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719949987973-to7pnp07efaadks3ph9se7ucb8k9k058.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719949987973-00p1pd4e8o43lhvupmob26l352rt7cmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.policeOffenceDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
