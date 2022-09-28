@@ -1,6 +1,6 @@
 # police_offence_officer
 
-A new Flutter project.
+Flutter project for a client
 
 ## Getting Started
 
