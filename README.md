@@ -6,7 +6,7 @@ Flutter project for a client.
 
 This a project aimed at creation an application which allows police officers to immidietly sent fines to moterists. 
 
-Resouces used in application:
+Resources used in application:
 
 - Firebase as database
 - shimmer: ^2.0.0
